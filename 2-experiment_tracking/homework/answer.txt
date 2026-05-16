@@ -1,0 +1,7 @@
+1. mlflow version: 3.12.0
+2. output folder: 4 files
+3. min_samples_split: 2
+4. default-artifact-root
+5. best validation RMSE: 5.335
+6. best test RMSE: 6.33 XXX 5.5
+ --Wrong might because reduce the size of the dataset. It's not a really big deal though. JUST NEED TO RUNNNNNNNNNNNNNN
