@@ -1,0 +1,6 @@
+1. Orchestrator: Airflow
+2. Version: 3.2.1
+3. Records: 3403766
+4. Apply data prep, records: 3316216
+5. Model's intercept: 23.85
+6. Size of model: 4524
