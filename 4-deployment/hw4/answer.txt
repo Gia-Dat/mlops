@@ -1,0 +1,6 @@
+1. 6.24
+2. 66M
+3. jupyter nbconvert --to script starter.ipynb
+4. First hash of sklearn dependency: 9bccbb3b40e3de10351f8f5068e105d0f4083b1a65fa07b6634fbc401a6287fd
+5. 14.29
+6. 0.19
